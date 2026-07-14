@@ -1,62 +1,94 @@
-Foodora Power BI Dashboard
-
-Project Overview
-
-This project is an interactive Foodora Sales Dashboard developed using Microsoft Power BI. It provides meaningful insights into food orders, customer behavior, payment methods, delivery status, and monthly sales trends through interactive visualizations.
-
-Dashboard Features
-
-* Interactive Filters (Month & Restaurant Type)
-* Total Quantity KPI
-* Total Transactions KPI
-* Average Quantity KPI
-* Total Quantity by Month
-* Total Quantity by Food Item
-* Transactions by Food Type & Member Type
-* Transactions by Delivery Status
-* Transactions by Payment Method
-* Transactions by Year & Month
-
-Tools Used
-
-* Microsoft Power BI
-* Power Query
-* DAX
-* Microsoft Excel
-* Data Visualization
-
-Dataset
-
-The dataset includes:
-
-* Food Orders
-* Restaurant Details
-* Customer Details
-* Monthly Sales Data
-
-Project Structure
-
-* Dashboard/
-Dataset/
-Icons/
-Image/
 
 Dashboard Preview
 
 ![Foodora Dashboard](Image/dashboard.PNG)
 
-Dashboard screenshots are available inside the Image folder.
+---
 
-Skills Demonstrated
+# 🚀 Project Overview
 
-* Data Cleaning
-* Data Transformation
-* Data Modeling
-* DAX Measures
-* Interactive Dashboard Design
-* Business Intelligence
-* Data Visualization
+This project is an interactive Foodora Sales Dashboard developed using Microsoft Power BI. It transforms raw sales data into meaningful business insights through interactive visualizations, KPIs, DAX measures, and Power Query. The dashboard enables users to analyze order trends, customer behavior, restaurant performance, delivery status, and payment methods efficiently.
 
-Author
+---
 
-Mayur Rajput
+# ✨ Features
+
+- Interactive Filter Panel
+  - Month
+  - Member Type
+  - Payment Method
+  - Restaurant Type
+- KPI Cards
+  - Total Quantity
+  - Total Transactions
+  - Average Quantity
+- Monthly Sales Analysis
+- Food Item-wise Quantity Analysis
+- Food Type & Member Type Analysis
+- Delivery Status Analysis
+- Payment Method Analysis
+- Year-wise Transaction Trend
+- Clean and Interactive Dashboard Design
+
+---
+
+# 🛠️ Technologies Used
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Data Cleaning
+- Data Visualization
+
+---
+
+# 📊 Dataset
+
+The dataset includes:
+
+- Food Orders
+- Customer Details
+- Restaurant Details
+- Food Categories
+- Member Type
+- Payment Method
+- Delivery Status
+- Monthly Sales Data
+
+---
+
+# 📂 Project Structure
+
+```text
+Dashboard/
+Dataset/
+Icons/
+Image/
+README.md
+```
+
+---
+
+# 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Measures
+- Dashboard Design
+- Business Intelligence
+- Interactive Reporting
+- Data Visualization
+
+---
+
+# 👨‍💻 Author
+
+**Mayur Rajput**
+
+B.Pharm + MBA (Integrated) Student | NMIMS
+
+Passionate about Power BI, Excel, VBA, Data Analytics, Business Intelligence, and Process Automation.
+
+⭐ If you found this project useful, don't forget to star this repository.

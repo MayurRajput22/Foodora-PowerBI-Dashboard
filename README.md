@@ -43,6 +43,8 @@ Image/
 
 Dashboard Preview
 
+![Foodora Dashboard](Image/dashboard.PNG)
+
 Dashboard screenshots are available inside the Image folder.
 
 Skills Demonstrated
